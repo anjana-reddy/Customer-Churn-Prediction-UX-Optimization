@@ -1,4 +1,4 @@
-**# Customer-Churn-Prediction-UX-Optimization**
+**Customer-Churn-Prediction-UX-Optimization**
 An end-to-end data science platform that combines Machine Learning and Statistical Testing to predict customer churn and optimize conversion rates. Built on datasets of 50,000 customers and 29,000 A/B test visitors, the project delivers actionable business insights through automated pipelines and executive-ready reports.
 **Churn Prediction**
 Trains and evaluates 4 ML models (Logistic Regression, XGBoost, Random Forest, Gradient Boosting)
