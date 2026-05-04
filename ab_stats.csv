@@ -1,0 +1,6 @@
+Segment,Control_CVR,Variant_CVR,Lift,p_value,Significant
+Mobile,0.1153,0.1595,0.3838,0.0,True
+Desktop,0.119,0.1379,0.1588,0.0011,True
+New Visitors,0.1129,0.1501,0.3302,0.0,True
+Returning,0.1184,0.143,0.2077,0.0001,True
+High-Risk Churners,0.125,0.1266,0.0124,0.459,False

@@ -1,0 +1,23 @@
+{
+  "churn_rate": 0.287,
+  "total": 50000,
+  "churned": 14348,
+  "retained": 35652,
+  "risk_high": 19694,
+  "risk_med": 8849,
+  "risk_low": 21457,
+  "best_model": "Logistic Regression",
+  "best_auc": 0.7374,
+  "acc": 0.7168,
+  "prec": 0.5148,
+  "rec": 0.2307,
+  "pA": 0.115,
+  "pB": 0.1475,
+  "lift": 0.2828,
+  "z": 8.201,
+  "pval": 0.0,
+  "ci_lo": 0.0247,
+  "ci_hi": 0.0403,
+  "mtm_churn": 0.4674,
+  "twyr_churn": 0.048
+}

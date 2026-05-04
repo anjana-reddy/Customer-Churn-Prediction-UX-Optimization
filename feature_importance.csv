@@ -1,0 +1,14 @@
+Feature,Importance
+Contract_enc,0.8760205
+FiberNoSupport,0.022088246
+InternetService_enc,0.011579414
+MonthlyCharges,0.01050683
+ChargePerMonth,0.0102515
+TotalCharges,0.009888547
+Tenure,0.009614017
+SeniorCitizen,0.009361031
+TechSupport_enc,0.008693717
+OnlineSecurity_enc,0.008643459
+HighValue,0.0082011325
+PaymentMethod_enc,0.007906052
+Partner_enc,0.007245646
